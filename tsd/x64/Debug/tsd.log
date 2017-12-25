@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\nguye\source\repos\opencvtry\tsd\main.cpp(28): warning C4804: '<': unsafe use of type 'bool' in operation
+c:\users\nguye\source\repos\opencvtry\tsd\main.cpp(71): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nguye\source\repos\opencvtry\tsd\main.cpp(80): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nguye\source\repos\opencvtry\tsd\main.cpp(111): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nguye\source\repos\opencvtry\tsd\main.cpp(120): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  tsd.vcxproj -> C:\Users\nguye\Source\Repos\opencvTry\x64\Debug\tsd.exe
