@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/jetson_uart.dir/src/main.cpp.o  -o jetson_uart -rdynamic 

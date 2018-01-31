@@ -1,0 +1,1 @@
+/home/ubuntu/buildJetsonFTDIModule/jetson_uart/build/CMakeFiles/jetson_uart.dir

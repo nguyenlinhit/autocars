@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/buildJetsonFTDIModule/jetson_uart/src/main.cpp
+stdio.h
+-
+string.h
+-
+cstdlib
+-
+termios.h
+-
+unistd.h
+-
+sys/signal.h
+-
+unistd.h
+-
+fcntl.h
+-
+
