@@ -1,0 +1,3 @@
+serial.o: serial.c
+SerialPort_read.o: SerialPort_read.c
+SerialPort_write.o: SerialPort_write.c
